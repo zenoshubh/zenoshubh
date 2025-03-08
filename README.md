@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack and NextJS  
-🌱 I’m currently learning Data Science  
+🔭 I’m currently working on MERN Stack and NextJS    
 👨‍💻 All of my projects are available at [github.com/shubh-v21](https://www.github.com/shubh-v21)  
 💬 Ask me about C++, NextJS, NodeJS, React, MongoDB etc.  
 📫 How to reach me : [linkedin.com/in/shubh-v21](https://www.linkedin.com/in/shubh-v21)
