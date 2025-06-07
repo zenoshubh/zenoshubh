@@ -10,17 +10,17 @@ _Building digital experiences that matter_ ✨
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <a href="https://linkedin.com/in/shubh-v21" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill: #0077B5; transition: all 0.3s ease; border-radius: 8px; padding: 8px; background: white;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'; this.style.boxShadow='0 8px 25px rgba(0,119,181,0.4)';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='none';" />
+  <a href="https://linkedin.com/in/shubh-v21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ShubhOnX" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="fill: #000000; transition: all 0.3s ease; border-radius: 8px; padding: 8px; background: white; border: 2px solid #000000;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.4)';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='none';" />
+  <a href="https://x.com/ShubhOnX" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:shubhverma2003@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" style="fill: #EA4335; transition: all 0.3s ease; border-radius: 8px; padding: 8px; background: white;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'; this.style.boxShadow='0 8px 25px rgba(234,67,53,0.4)';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='none';" />
+  <a href="mailto:shubhverma2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/shubh-v21" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="fill: #181717; transition: all 0.3s ease; border-radius: 8px; padding: 8px; background: white; border: 2px solid #181717;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'; this.style.boxShadow='0 8px 25px rgba(24,23,23,0.4)';" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.boxShadow='none';" />
+  <a href="https://github.com/shubh-v21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -60,74 +60,53 @@ const shubh = {
 
 ## 🏆 Featured Projects
 
-<div style="background: linear-gradient(135deg, #0c0c0c 0%, #1a1a2e 50%, #16213e 100%); padding: 20px; border-radius: 15px; margin: 10px 0; border: 1px solid #333; color: #e1e8ed;">
+### 🔥 **InvisiFeed** - Anonymous Feedback Collection Platform
 
-### 🔥 InvisiFeed
-**Anonymous Feedback Collection Platform**
+[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://invisifeed.vercel.app)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/invisifeed)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge)](https://invisifeed.vercel.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21)
-
-📝 **Description:**  
+**📝 Description:**  
 A revolutionary platform that enables freelancers and agencies to collect honest, anonymous client feedback through smart invoice links. Features real-time analytics and automated PDF generation.
 
-🚀 **Key Features:**
+**🚀 Key Features:**
 - 🔗 Smart invoice link integration
-- 📊 Real-time feedback analytics
+- 📊 Real-time feedback analytics  
 - 💰 Payment processing with Razorpay
 - 📄 Automated PDF generation
 - ⏰ Scheduled reminder system
 
-**Tech Stack:**
-```
-Frontend: Next.js, ShadCN, Framer Motion
-Backend:  MongoDB, Node.js
-Tools:    Recharts, PDF-Lib, React-PDF
-Payment:  Razorpay Integration
-```
+**💻 Tech Stack:** Next.js • MongoDB • ShadCN • Framer Motion • Recharts • PDF-Lib • Razorpay
 
-</div>
+---
 
-<div style="background: linear-gradient(135deg, #232526 0%, #414345 50%, #0f0f23 100%); padding: 20px; border-radius: 15px; margin: 10px 0; border: 1px solid #444; color: #f0f0f0;">
+### ⭐ **OctoSpark** - GitHub Profile Analyzer & Scoring System
 
-### ⭐ OctoSpark
-**GitHub Profile Analyzer & Scoring System**
+[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://octospark.vercel.app)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/octospark)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge)](https://octospark.vercel.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21)
-
-📝 **Description:**  
+**📝 Description:**  
 An intelligent GitHub profile analyzer that scores developers based on their public activity. Perfect tool for recruiters and developers to evaluate coding profiles comprehensively.
 
-🚀 **Key Features:**
+**🚀 Key Features:**
 - 📈 Comprehensive profile scoring
 - 📊 Activity visualization
 - 🎯 Skills assessment
 - 🏆 Achievement tracking
 - 📋 Detailed analytics reports
 
-**Tech Stack:**
-```
-Frontend: Next.js, ShadCN UI
-API:      GraphQL, GitHub API
-Styling:  TailwindCSS
-Charts:   Custom visualizations
-```
+**💻 Tech Stack:** Next.js • GraphQL • GitHub API • ShadCN UI • TailwindCSS
 
-</div>
+---
 
-<div style="background: linear-gradient(135deg, #1a0033 0%, #330066 50%, #001a33 100%); padding: 20px; border-radius: 15px; margin: 10px 0; border: 1px solid #555; color: #e1e8ed;">
+### 🌐 **ShadowTips** - Cyberpunk Anonymous Messaging Platform
 
-### 🌐 ShadowTips
-**Cyberpunk Anonymous Messaging Platform**
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4285F4?style=for-the-badge)](https://shadowtips.netlify.app)
+[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://shadowtips.netlify.app)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/shadowtips)
 
-📝 **Description:**  
+**📝 Description:**  
 A futuristic anonymous messaging platform with cyberpunk aesthetics. Send and receive encrypted anonymous messages while maintaining complete privacy and digital anonymity.
 
-🚀 **Key Features:**
+**🚀 Key Features:**
 - 🔐 Anonymous messaging system
 - 🎭 Digital identity management
 - 🤖 AI-powered message generation
@@ -135,29 +114,18 @@ A futuristic anonymous messaging platform with cyberpunk aesthetics. Send and re
 - 🛡️ JWT-based security
 - 📱 Responsive across devices
 
-**Tech Stack:**
-```
-Frontend: Next.js 15, TypeScript, TailwindCSS
-Backend:  MongoDB, NextAuth.js, Node.js
-AI:       Google Gemini API
-Email:    React Email, Nodemailer
-Security: bcrypt, JWT, Zod validation
-```
+**💻 Tech Stack:** Next.js 15 • TypeScript • MongoDB • NextAuth.js • Google Gemini API • bcrypt
 
-</div>
+---
 
-<div style="background: linear-gradient(135deg, #1a0d2e 0%, #2d1b47 50%, #0f1419 100%); padding: 20px; border-radius: 15px; margin: 10px 0; border: 1px solid #666; color: #f0f0f0;">
+### 📚 **EduZen** - AI-Powered Learning Companion
 
-### 📚 EduZen
-**AI-Powered Learning Companion**
-
-[![Demo Video](https://img.shields.io/badge/🎥_Demo_Video-FF0000?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1URTk-HNg7_t2jUC8kK8pKcDEIPj-SN77/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/AI-for-Impact-Group-2/ai-for-impact-final-day-duosyntax)
 
-📝 **Description:**  
+**📝 Description:**  
 An AI-powered education platform that transforms how students learn. Features intelligent syllabus analysis, personalized test generation, and adaptive learning experiences powered by Google Gemini AI.
 
-🚀 **Key Features:**
+**🚀 Key Features:**
 - 🤖 AI syllabus analyzer & organizer
 - 🎯 Intelligent test generator
 - 🔍 Smart answer explanations
@@ -165,28 +133,18 @@ An AI-powered education platform that transforms how students learn. Features in
 - 🎨 Adaptive learning experience
 - 📊 Real-time progress tracking
 
-**Tech Stack:**
-```
-Frontend: Next.js 15, TailwindCSS, Framer Motion
-Backend:  MongoDB, NextAuth.js, Node.js
-AI:       Google Gemini 2.0 Flash
-Tools:    PDF Processing, Shadcn/ui
-Analytics: ML-powered insights
-```
+**💻 Tech Stack:** Next.js 15 • MongoDB • Google Gemini 2.0 • TailwindCSS • Framer Motion • PDF Processing
 
-</div>
+---
 
-<div style="background: linear-gradient(135deg, #2d1810 0%, #4a3728 50%, #1a0f0a 100%); padding: 20px; border-radius: 15px; margin: 10px 0; border: 1px solid #777; color: #f0f0f0;">
-
-### 💻 Frontend-Flex
-**React Mini-Projects Collection**
+### 💻 **Frontend-Flex** - React Mini-Projects Collection
 
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/frontend-flex)
 
-📝 **Description:**  
+**📝 Description:**  
 A growing collection of React mini-projects built with Vite. Personal playground for revising core frontend concepts through focused, self-contained applications that demonstrate key React principles.
 
-🚀 **Key Features:**
+**🚀 Key Features:**
 - 📚 Core React concept reinforcement
 - 🧩 Small, modular applications
 - 🎯 Clean, demonstrative code structure
@@ -194,16 +152,7 @@ A growing collection of React mini-projects built with Vite. Personal playground
 - 💡 Learning-focused approach
 - 📌 Progressive skill building
 
-**Tech Stack:**
-```
-Frontend: React, TypeScript
-Routing:  React Router
-Styling:  TailwindCSS
-Build:    Vite
-Concepts: Hooks, State, Props, Components
-```
-
-</div>
+**💻 Tech Stack:** React • TypeScript • React Router • TailwindCSS • Vite
 
 <div align="center">
 
