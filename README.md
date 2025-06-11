@@ -10,16 +10,16 @@ _Building digital experiences that matter_ ✨
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-  <a href="https://linkedin.com/in/shubh-v21" target="_blank">
+  <a href="https://linkedin.com/in/zenoshubh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ShubhOnX" target="_blank">
+  <a href="https://x.com/zenoshubh" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:shubhverma2003@gmail.com" target="_blank">
+  <a href="mailto:zenoshubh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/shubh-v21" target="_blank">
+  <a href="https://github.com/zenoshubh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -63,7 +63,7 @@ const shubh = {
 ### 🔥 **InvisiFeed** - Anonymous Feedback Collection Platform
 
 [![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://invisifeed.vercel.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/invisifeed)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/invisifeed)
 
 **📝 Description:**  
 A revolutionary platform that enables freelancers and agencies to collect honest, anonymous client feedback through smart invoice links. Features real-time analytics and automated PDF generation.
@@ -82,7 +82,7 @@ A revolutionary platform that enables freelancers and agencies to collect honest
 ### ⭐ **OctoSpark** - GitHub Profile Analyzer & Scoring System
 
 [![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://octospark.vercel.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/octospark)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/octospark)
 
 **📝 Description:**  
 An intelligent GitHub profile analyzer that scores developers based on their public activity. Perfect tool for recruiters and developers to evaluate coding profiles comprehensively.
@@ -101,7 +101,7 @@ An intelligent GitHub profile analyzer that scores developers based on their pub
 ### 🌐 **ShadowTips** - Cyberpunk Anonymous Messaging Platform
 
 [![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://shadowtips.netlify.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/shadowtips)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/shadowtips)
 
 **📝 Description:**  
 A futuristic anonymous messaging platform with cyberpunk aesthetics. Send and receive encrypted anonymous messages while maintaining complete privacy and digital anonymity.
@@ -120,7 +120,7 @@ A futuristic anonymous messaging platform with cyberpunk aesthetics. Send and re
 
 ### 📚 **EduZen** - AI-Powered Learning Companion
 
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/AI-for-Impact-Group-2/ai-for-impact-final-day-duosyntax)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/eduzen)
 
 **📝 Description:**  
 An AI-powered education platform that transforms how students learn. Features intelligent syllabus analysis, personalized test generation, and adaptive learning experiences powered by Google Gemini AI.
@@ -139,6 +139,7 @@ An AI-powered education platform that transforms how students learn. Features in
 
 ### 💻 **Frontend-Flex** - React Mini-Projects Collection
 
+[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://frontendflex.netlify.app)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/frontend-flex)
 
 **📝 Description:**  
@@ -194,7 +195,6 @@ A growing collection of React mini-projects built with Vite. Personal playground
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
@@ -204,15 +204,15 @@ A growing collection of React mini-projects built with Vite. Personal playground
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-v21&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenoshubh&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubh-v21&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zenoshubh&theme=tokyonight&hide_border=true)
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=shubh-v21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=zenoshubh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -233,5 +233,5 @@ A growing collection of React mini-projects built with Vite. Personal playground
 ---
 
 <div align="center">
-<i>⭐️ From <a href="https://github.com/shubh-v21">shubh-v21</a></i>
+<i>⭐️ From <a href="https://github.com/zenoshubh">zenoshubh</a></i>
 </div>
