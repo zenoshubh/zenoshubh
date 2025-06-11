@@ -157,8 +157,6 @@ A growing collection of React mini-projects built with Vite. Personal playground
 
 <div align="center">
 
-### 🛠️ More Projects Coming Soon...
-
 [![View All Projects](https://img.shields.io/badge/📂_View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubh-v21?tab=repositories)
 
 </div>
