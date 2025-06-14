@@ -40,7 +40,7 @@ const shubh = {
     backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
     tools: ["Docker", "AWS", "Vercel", "Prisma"],
   },
-  currentlyLearning: "Advanced System Design & DevOps",
+  currentlyLearning: "Building AI-powered applications.",
   funFact: "I debug with console.log and I'm proud of it! 🐛",
 };
 ```
