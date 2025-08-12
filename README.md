@@ -2,12 +2,9 @@
 
 # 👋 Hey there! I'm **Shubh Verma**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Next.js+Specialist;Open+Source+Contributor" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;GenAI+Enthusiast;Product+Builder;SaaS+Developer" alt="Typing SVG" />
 
 _Building digital experiences that matter_ ✨
-
-
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
   <a href="https://linkedin.com/in/zenoshubh" target="_blank">
@@ -33,12 +30,14 @@ _Building digital experiences that matter_ ✨
 ```javascript
 const shubh = {
   location: "India 🇮🇳",
-  currentFocus: ["MERN Stack", "Next.js", "TypeScript"],
-  askMeAbout: ["React", "Node.js", "MongoDB", "System Design"],
+  currentFocus: ["GenAI", "Web Development", "TypeScript"],
+  askMeAbout: ["Next.js", "Node.js", "API", "System Design"],
   technologies: {
-    frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-    tools: ["Docker", "AWS", "Vercel", "Prisma"],
+    Frontend: ["Next.js", "React.js", "Tailwind", "JavaScript", "HTML", "CSS", "UI Component Libraries"],
+    Backend: ["Node.js", "Express.js", "GraphQL", "WebSockets", "WebHooks", "API Integration", "Firebase"],
+    Databases: ["MongoDB", "PostgreSQL", "Redis"],
+    GenAI Development: ["LangChain.js", "LangGraph.js", "RAG Pipelines", "Vector Databases", "Agentic AI", "MCP Servers"],
+    Tools & Services: ["Git", "GitHub", "Postman", "Docker", "GitHub Actions"],
   },
   currentlyLearning: "Building AI-powered applications.",
   funFact: "I debug with console.log and I'm proud of it! 🐛",
@@ -60,6 +59,25 @@ const shubh = {
 
 ## 🏆 Featured Projects
 
+### 🔥 **Fitflexity** - A RAG-Powered Agentic AI System for Dynamic Health Planning
+
+[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://fitflexity.app)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/fitflexity)
+
+**📝 Description:**  
+Engineered a GenAI fitness application using Langchain.js, Mistral, and Gemini to generate personalized, modifiable diet/workout plans and an agentic RAG chat for dynamic updates and human-like conversational coaching; dockerized and deployed on a DigitalOcean Ubuntu VPS with CI/CD via GitHub Actions for automated deployment.
+
+**🚀 Key Features:**
+
+- 🤖 AI-driven personalized health plans
+- 💬 Human-like conversational coaching
+- 📦 Dockerized deployment with CI/CD
+- 🔄 Dynamic updates and modifications
+
+**💻 Tech Stack:** LangChain.js • LangGraph.js • QdrantDB • MistralAI • Gemini • PostgreSQL • Redis • Express.js • Next.js • Docker
+
+---
+
 ### 🔥 **InvisiFeed** - Anonymous Feedback Collection Platform
 
 [![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://invisifeed.vercel.app)
@@ -69,13 +87,33 @@ const shubh = {
 A revolutionary platform that enables freelancers and agencies to collect honest, anonymous client feedback through smart invoice links. Features real-time analytics and automated PDF generation.
 
 **🚀 Key Features:**
+
 - 🔗 Smart invoice link integration
-- 📊 Real-time feedback analytics  
+- 📊 Real-time feedback analytics
 - 💰 Payment processing with Razorpay
 - 📄 Automated PDF generation
 - ⏰ Scheduled reminder system
 
 **💻 Tech Stack:** Next.js • MongoDB • ShadCN • Framer Motion • Recharts • PDF-Lib • Razorpay
+
+---
+
+### ⭐ **VectoCart** - A Real-Time Collaborative Online Shopping Extension
+
+[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://vectocart.vercel.app)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/vectocart)
+
+**📝 Description:**  
+A real-time collaborative online shopping extension that enhances the e-commerce experience by allowing users to shop together, share carts, and make collective purchasing decisions.
+
+**🚀 Key Features:**
+
+- 📈 Real-time collaboration on shopping
+- 📦 Shared cart functionality
+- 🔄 Dynamic sort and filter options
+- 👍 Upvote and downvote items
+
+**💻 Tech Stack:** React • Firebase Firestore • Firebase Auth • Manifest v3 • TailwindCSS • Extensions API • Puppeteer
 
 ---
 
@@ -88,6 +126,7 @@ A revolutionary platform that enables freelancers and agencies to collect honest
 An intelligent GitHub profile analyzer that scores developers based on their public activity. Perfect tool for recruiters and developers to evaluate coding profiles comprehensively.
 
 **🚀 Key Features:**
+
 - 📈 Comprehensive profile scoring
 - 📊 Activity visualization
 - 🎯 Skills assessment
@@ -95,26 +134,6 @@ An intelligent GitHub profile analyzer that scores developers based on their pub
 - 📋 Detailed analytics reports
 
 **💻 Tech Stack:** Next.js • GraphQL • GitHub API • ShadCN UI • TailwindCSS
-
----
-
-### 🌐 **ShadowTips** - Cyberpunk Anonymous Messaging Platform
-
-[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://shadowtips.netlify.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/zenoshubh/shadowtips)
-
-**📝 Description:**  
-A futuristic anonymous messaging platform with cyberpunk aesthetics. Send and receive encrypted anonymous messages while maintaining complete privacy and digital anonymity.
-
-**🚀 Key Features:**
-- 🔐 Anonymous messaging system
-- 🎭 Digital identity management
-- 🤖 AI-powered message generation
-- 🎨 Cyberpunk UI/UX design
-- 🛡️ JWT-based security
-- 📱 Responsive across devices
-
-**💻 Tech Stack:** Next.js 15 • TypeScript • MongoDB • NextAuth.js • Google Gemini API • bcrypt
 
 ---
 
@@ -126,6 +145,7 @@ A futuristic anonymous messaging platform with cyberpunk aesthetics. Send and re
 An AI-powered education platform that transforms how students learn. Features intelligent syllabus analysis, personalized test generation, and adaptive learning experiences powered by Google Gemini AI.
 
 **🚀 Key Features:**
+
 - 🤖 AI syllabus analyzer & organizer
 - 🎯 Intelligent test generator
 - 🔍 Smart answer explanations
@@ -136,24 +156,6 @@ An AI-powered education platform that transforms how students learn. Features in
 **💻 Tech Stack:** Next.js 15 • MongoDB • Google Gemini 2.0 • TailwindCSS • Framer Motion • PDF Processing
 
 ---
-
-### 💻 **Frontend-Flex** - React Mini-Projects Collection
-
-[![Live Link](https://img.shields.io/badge/🌐_Live_Link-4285F4?style=for-the-badge)](https://frontendflex.netlify.app)
-[![GitHub](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/shubh-v21/frontend-flex)
-
-**📝 Description:**  
-A growing collection of React mini-projects built with Vite. Personal playground for revising core frontend concepts through focused, self-contained applications that demonstrate key React principles.
-
-**🚀 Key Features:**
-- 📚 Core React concept reinforcement
-- 🧩 Small, modular applications
-- 🎯 Clean, demonstrative code structure
-- 🔄 Regular project additions
-- 💡 Learning-focused approach
-- 📌 Progressive skill building
-
-**💻 Tech Stack:** React • TypeScript • React Router • TailwindCSS • Vite
 
 <div align="center">
 
@@ -173,33 +175,43 @@ A growing collection of React mini-projects built with Vite. Personal playground
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![UI Component Libraries](https://img.shields.io/badge/UI_Component_Libraries-6E57E0?style=for-the-badge)
 
 ### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge)
+![WebHooks](https://img.shields.io/badge/WebHooks-FF9800?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-00B8D9?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Database & Cloud
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### AI & Development Tools
+### GenAI Development
 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain.js](https://img.shields.io/badge/LangChain.js-000000?style=for-the-badge)
+![LangGraph.js](https://img.shields.io/badge/LangGraph.js-1A73E8?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FFB300?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-00C853?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-512DA8?style=for-the-badge)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-455A64?style=for-the-badge)
 
-### State Management & Tools
+### Tools & Services
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
